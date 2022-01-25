@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Open Camera</string>
+    <string name="inputText1">strings.xml</string>
+    <string name="btnAddText">strings.xml</string>
+</resources>
